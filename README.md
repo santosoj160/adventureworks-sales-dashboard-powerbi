@@ -56,7 +56,7 @@ The dashboard provides insights into revenue, profit, customer behavior, product
 
 ## Dataset
 
-AdventureWorks Sample Dataset
+![dataset](AdventureWorks_Sample_Dataset).
 
 ---
 
@@ -66,7 +66,7 @@ AdventureWorks Sample Dataset
 data/
 dashboard/
 images/
-docs/
+pdf/
 README.md
 ```
 
